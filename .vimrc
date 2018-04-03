@@ -1,4 +1,5 @@
 set nocompatible             
+filetype on
 filetype off                
 
 filetype plugin on
@@ -59,7 +60,7 @@ Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
-Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/im-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-surround'
 Plugin 'jiangmiao/auto-pairs'
